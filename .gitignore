@@ -1,0 +1,9 @@
+# Ignora arquivos criados pelo VIM
+*.swp
+
+# Ignora arquivos criados pelo PLY
+parser.out
+parsetab.py
+
+# Ignora pasta de cache do python
+__pycache__/
